@@ -1,3 +1,4 @@
+/* AMAZON ML predection model */ 
 const express = require('express');
 const bodyParser = require('body-parser');
 const AWS = require('aws-sdk');
